@@ -1,0 +1,11 @@
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
